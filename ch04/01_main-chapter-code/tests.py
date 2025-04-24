@@ -5,7 +5,7 @@
 
 # File for internal use (unit tests)
 
-from gpt import main
+from ch04.gpt import main
 
 expected = """
 ==================================================
