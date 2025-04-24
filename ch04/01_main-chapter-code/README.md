@@ -7,5 +7,5 @@
 
 ### Optional Code
 
-- [gpt.py](gpt.py) is a standalone Python script file with the code that we implemented thus far, including the GPT model we coded in this chapter
+- [gpt.py](../gpt.py) is a standalone Python script file with the code that we implemented thus far, including the GPT model we coded in this chapter
 
